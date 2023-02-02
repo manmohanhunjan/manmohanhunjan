@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Web Development.
 - 🌱 I’m currently learning FullStack WebDevelopement, JavaScript, C++, Python, Flutter, Django.
 - 💞️ I’m looking to collaborate on any projects as long as i'm learning something new.
-- 📫 How to reach me- email:manmohan.hunjan.mh@gmail.com.
+- 📫 How to reach me- email: manmohan.hunjan.mh@gmail.com.
 
 <!---
 manmohanhunjan/manmohanhunjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
