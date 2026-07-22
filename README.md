@@ -3,8 +3,6 @@
 - 👋 Hi, I’m Manmohan.
 - 👀 I’m interested in FullStack Web Development.
 - 🌱 I’m currently learning RUST, TypeScript, FASTAPI, GO and ElasticSearch
-- 💞️ I’m looking to collaborate on any projects as long as i'm learning something new.
-- Contact me at: manmohan.hunjan.mh@gmail.com
 
 <!---
 manmohanhunjan/manmohanhunjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
