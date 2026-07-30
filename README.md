@@ -30,8 +30,5 @@
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-
 
 [![An image of @manmohanhunjan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manmohanhunjan)](https://holopin.io/@manmohanhunjan)
